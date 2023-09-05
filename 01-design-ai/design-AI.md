@@ -4,10 +4,10 @@ One of the AI systems that currently enacts some of these issues would be facial
 
 ## #2. _Describe this system in terms of (your perceived high-level) **goals**, **environment**, and **adaptations** of the system._
 **Goals**
-	-Analyze the images of the face of suspects
- 	-Compare faces against large database of faces it was trained on
-	-Recreate a new database of faces based on the submitted image for law enforcement to use in their search
-	-Compare faces to possible matches already in the system
+* Analyze the images of the face of suspects
+* Compare faces against large database of faces it was trained on
+* Recreate a new database of faces based on the submitted image for law enforcement to use in their search
+* Compare faces to possible matches already in the system
 
 **Environment**
 * Various locations where the data is stored and monitored
