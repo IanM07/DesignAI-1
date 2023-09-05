@@ -1,4 +1,4 @@
-## #1. _Name a real-world example of an existing AI system that is problematic in that it actually enacts existing problematic social systems/practices._
+## #1. _Name a real-world example of an existing AI system that is problematic in that it actually enacts existing problematic social systems/practices._ ##
 
 One of the AI systems that currently enacts some of these issues would be facial recognition systems. These systems are used by law enforcement to help with the identification of individuals. Facial recognition systems have been shown to have significant bias when misidentifying individuals from certain racial and ethnic backgrounds, age groups, and gender identities. Some systems have been shown to have difficulties in differentiating between two different black men as opposed to two different white men, for example.
 
